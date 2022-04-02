@@ -1,0 +1,13 @@
+{
+    "admob_pub_id": "pub-3940256099942544",
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "admob_banner": "/21952429235,22644075336/TTS_GFXTOOLFORFREE_BANNER_AD",
+    "admob_interstitial": "/21952429235,22644075336/TTS_GFXTOOLFORFREE_INTERSTITIAL",
+    "admob_native": "/21952429235,22644075336/TTS_GFXTOOLFORFREE_NATIVE_AD",
+	"admob_open":"/21952429235,22644075336/TTS_GFXTOOLFORFREE_OPEN_AD",
+	"load_more":true,
+    "ad_type": "1",
+    "new_pkg": "com.d2joy.gfxtools",
+    "is_version": "false"
+}
+
