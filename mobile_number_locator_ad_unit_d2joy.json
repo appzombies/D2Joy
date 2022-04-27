@@ -9,6 +9,7 @@
     "admob_native": "/21952429235,22644075336/TTS_GFXTOOLFORFREE_NATIVE_AD",
     "admob_open":"/21952429235,22644075336/TTS_GFXTOOLFORFREE_OPEN_AD",
     "ad_type": "1",
+    "load_mode":true,
     "new_pkg": "com.d2joy.numbertracker.callerid.calltracker.gpslocation.numberlocator",
     "is_version": "false"
 }
