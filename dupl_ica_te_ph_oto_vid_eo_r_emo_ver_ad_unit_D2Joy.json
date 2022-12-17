@@ -2,10 +2,10 @@
   "error": false,
   "isNewApp":false,
   "app_pkg": "com.appzombies.english.gujarati.translator",
-  "fbBannr": "206761076723476_412225842843664",
-  "fbInter": "206761076723476_206761400056777",
-  "fbNative": "206761076723476_309582603107989",
-  "fbNativeBnnr": "206761076723476_785200065546238",
+  "fbBannr": "1270597730186602_1270598936853148",
+  "fbInter": "1270597730186602_1270598876853154",
+  "fbNative": "1270597730186602_1270598726853169",
+  "fbNativeBnnr": "",
   "AdmobBannr": "/21753324030,22792603201/com.d2joy.duplicatephotoremover.duplicatevideoremover.duplicatephotoand_Banner",
   "AdmobInter": "/21753324030,22792603201/com.d2joy.duplicatephotoremover.duplicatevideoremover.duplicatephotoand_Interstitial",
   "AdmobInterSplash":"",
@@ -13,8 +13,8 @@
   "AdmobOpenAds": "/21753324030,22792603201/com.d2joy.duplicatephotoremover.duplicatevideoremover.duplicatephotoand_AppOpen",
   "admob_pub_id": "pub-3940256099942544",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-  "adType": "admob",
+  "adType": "fb",
   "adStatus": "admob",
   "loadMore":false,
-  "adMobTime":40
+  "adMobTime":30
 }
