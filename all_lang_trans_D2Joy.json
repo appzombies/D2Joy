@@ -6,15 +6,15 @@
   "fbInter": "555757909403094_555758846069667",
   "fbNative": "555757909403094_555758726069679",
   "fbNativeBnnr": "",
-  "AdmobBannr": "/21753324030,22792603201/com.d2joy.translate.languagetranslator.translatecamera.translatelanguage_Banner",
-  "AdmobInter": "/21753324030,22792603201/com.d2joy.translate.languagetranslator.translatecamera.translatelanguage_Interstitial",
+  "AdmobBannr": "ca-app-pub-8532680374583556/4687179572",
+  "AdmobInter": "ca-app-pub-8532680374583556/2313379240",
   "AdmobInterSplash":"",
-  "AdmobNative": "/21753324030,22792603201/com.d2joy.translate.languagetranslator.translatecamera.translatelanguage_Native",
-  "AdmobOpenAds": "/21753324030,22792603201/com.d2joy.translate.languagetranslator.translatecamera.translatelanguage_AppOpen",
+  "AdmobNative": "ca-app-pub-8532680374583556/2353779830",
+  "AdmobOpenAds": "ca-app-pub-8532680374583556/3694781661",
   "admob_pub_id": "pub-8532680374583556",
   "admob_app_id": "ca-app-pub-8532680374583556~8347305136",
   "adType": "admob",
   "adStatus": "admob",
   "loadMore":false,
-  "adMobTime":20
+  "adMobTime":30
 }
